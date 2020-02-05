@@ -1,0 +1,2 @@
+language: cpp
+solution: new_ graph/src/graph.cpp
